@@ -8,7 +8,7 @@ Mandatory steps:
 3, Go to https://cssminifier.com/;
 4, Minify all your css and js files;
 5, Replace your old css and js resources with the new ones;
-6, Test it one by one; 
+6, Test it one by one; # Do not forget to clear your browser's cache before testing (Ctrl+Shift+Delete) #
 7, Find the attached htaccess file;
 8, Copy the code snippet;
 9, Paste the code snippet in your htaccess file;
