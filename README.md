@@ -5,6 +5,7 @@ Mandatory steps:
 
 1, Go to https://cssminifier.com/;
 2, Minify all your css and js files;
-3, Copy the code snippet from the attached htaccess file;
+3, Find the attached htaccess file;
+4, Copy the code snippet;
 4, Paste the code snippet in your htaccess file;
 5, Enjoy it!
